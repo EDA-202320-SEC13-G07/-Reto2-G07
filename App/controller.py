@@ -231,7 +231,7 @@ def req_8(control):
     Retorna el resultado del requerimiento 8
     """
     # TODO: Modificar el requerimiento 8
-    pass
+    return 
 
 
 # Funciones para medir tiempos de ejecucion
